@@ -1,3 +1,5 @@
+![Cat_November_2010-1a](https://user-images.githubusercontent.com/37034734/231632284-0bb78531-8170-4b06-926b-3a86a9134a5d.jpg)
+
 A. Company Name: JIGS
 
 B. Long Term Vision Statement:
