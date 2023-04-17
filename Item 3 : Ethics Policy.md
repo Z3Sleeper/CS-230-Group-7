@@ -21,9 +21,9 @@ Core Items
 
 
 Board
-1. Mr. Beast
+1. Mr. Beast:
   Jimmy “Mr. Beast” Donaldson is an influencer/content creator who is currently dominating the internet creative space. His profession allows him to have a great understanding of consumers of the internet and other forms of technology, and the interaction he has with his fans and everyday people provides the perspectives of the layman. Mr. Beast’s efforts in philanthropy also helps provide a sense of pathos to our ethics board.
-2. Mark Zuckerberg
+2. Mark Zuckerberg:
   Mark is a very successful entrepreneur and programmer. Known for co-founding Facebook. Which is the world's largest social networking website. Zuckerberg is known for ability to write efficient and scalable code that can handle massive amounts of data & users. He has also been involved in development of several other software projects and open source programming languages. His success as a programmer can be a big attribute to identify & solve problems. He has attention to detail & is very relentless in pursuit of innovation. 
-3. Obama 
+3. Obama:
   The 44th president of the United States has seen many innovations in the field of computing technology and sciences during his tenure as the president. His commitment to diversity, promoting social justice, and equality, as well as his ability to navigate politics makes him an excellent choice for our ethics board since politics and technological developments are so intertwined.
