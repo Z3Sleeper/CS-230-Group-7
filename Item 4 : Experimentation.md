@@ -23,4 +23,5 @@ Make sure that there is always a ready surplus of product and identify problems 
 
 
 Priorities
+
 Right now, our priorities lie in innovation so that way we may create a viable product that can stand on its own against others and help establish ourselves in the market. We can use it as an opportunity to conduct research and experiment in AR technology.
