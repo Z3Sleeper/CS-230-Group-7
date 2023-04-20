@@ -46,6 +46,7 @@ Teams:
 
 	Stuart Granville
 		Junior at CSU East Bay studying Computer Science.
+		United States Marine Corps veteran.
 		
 	George Ermakov
 		Senior at CSU East Bay studying computer science engineering.
