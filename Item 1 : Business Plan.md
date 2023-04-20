@@ -24,10 +24,10 @@ What engages our passions?
 
 External opportunities that exist:
 
-	Marketing with Apple, the device can connect to your phone like an Apple Watch or AirPods and have a very simple user interface. Funding from personal owners,
-investors, and partners like Apple. We can have branded frames and have actual prescription lenses (i.e. Gucci, Armani, or any designer brands) This will sell very
-well in any deaf community or any place that has a language barrier. We can promote other Apple products. Buy a new iPhone and get the glasses off for 15%. We can also
-have famous people wear these glasses.
+	Marketing with Apple, the device can connect to your phone like an Apple Watch or AirPods and have a very simple user interface. Funding from personal
+	owners, investors, and partners like Apple. We can have branded frames and have actual prescription lenses (i.e. Gucci, Armani, or any designer brands) This
+	will sell very well in any deaf community or any place that has a language barrier. We can promote other Apple products. Buy a new iPhone and get the glasses
+	off for 15%. We can also have famous people wear these glasses.
 	
 Teams:
 
