@@ -1,4 +1,4 @@
-Experimentation
+A. Experimentation
 
 In order to innovate:
  
@@ -31,7 +31,7 @@ In order to increase availability and sales:
 	scheduling for shipping and production.
 
 
-Priorities:
+B. Priorities:
 
 	Right now, our priorities lie in innovation so that way we may create a viable product that can stand on its own against others
 	and help establish ourselves in the market. We can use it as an opportunity to conduct research and experiment in AR technology.
