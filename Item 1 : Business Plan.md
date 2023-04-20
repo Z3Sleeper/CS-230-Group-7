@@ -22,16 +22,20 @@ What engages our passions?
 	Those of us at JIGS have a strong desire to do our part in helping those in need. Our goal to implement a translation feature is secondary to our primary objective: which is aiding those with hearing disabilities.
 
 
-External opportunities that exist
+External opportunities that exist:
 
-	Marketing with Apple, the device can connect to your phone like an Apple Watch or AirPods and have a very simple user interface. Funding from personal owners, investors, and partners like Apple. We can have branded frames and have actual prescription lenses (i.e. Gucci, Armani, or any designer brands) This will sell very well in any deaf community or any place that has a language barrier. We can promote other Apple products. Buy a new iPhone and get the glasses off for 15%. We can also have famous people wear these glasses.
+	Marketing with Apple, the device can connect to your phone like an Apple Watch or AirPods and have a very simple user interface. Funding from personal owners,
+investors, and partners like Apple. We can have branded frames and have actual prescription lenses (i.e. Gucci, Armani, or any designer brands) This will sell very
+well in any deaf community or any place that has a language barrier. We can promote other Apple products. Buy a new iPhone and get the glasses off for 15%. We can also
+have famous people wear these glasses.
 	
 Teams:
 
 	Stuart Granville
 		Junior at CSU East Bay studying Computer Science.
 	George Ermakov
-		Senior at CSU East Bay studying computer science engineering. Currently work at Lucid Motors as Advanced Manufacturing Engineer with four years experience in the field. 
+		Senior at CSU East Bay studying computer science engineering. Currently work at Lucid Motors as Advanced Manufacturing Engineer with four years
+		experience in the field. 
 	John Parker Wilson
 		Senior at CSU East Bay majoring in Computer Science. Has experience programming video games and knows Photoshop.
 	Ishwdeep Singh
