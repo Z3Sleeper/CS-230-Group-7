@@ -6,7 +6,8 @@ Long Term Vision Statement:
 
 What are our goals?
 
-	The goal of our project is to create glasses with a display interface that can pick up and decipher others' voices nearby and translate them into a readable language of the user's choice on the glasses' display.
+	The goal of our project is to create glasses with a display interface that can pick up and decipher others'
+	voices nearby and translate them into a readable language of the user's choice on the glasses' display.
 
 
 Where did our idea come from?
@@ -16,8 +17,8 @@ Where did our idea come from?
 
 What is the purpose, values and mission?
 
-	Our purpose is to help those who are hard of hearing as well as bring the world a little closer together by providing a way for those who do not speak each
-	other's languages to communicate more easily.
+	Our purpose is to help those who are hard of hearing as well as bring the world a little closer together by
+	providing a way for those who do not speak each other's languages to communicate more easily.
 
 How can our startup have an impact?
 
@@ -28,7 +29,8 @@ How can our startup have an impact?
 
 What engages our passions?
 
-	Those of us at JIGS have a strong desire to do our part in helping those in need. Our goal to implement a translation feature is secondary to our primary objective: which is aiding those with hearing disabilities.
+	Those of us at JIGS have a strong desire to do our part in helping those in need. Our goal to implement a
+	translation feature is secondary to our primary objective: which is aiding those with hearing disabilities.
 
 
 External opportunities that exist:
