@@ -22,10 +22,11 @@ What is the purpose, values and mission?
 
 How can our startup have an impact?
 
-	Our finished product will immediately be an invaluable asset to those who have recently lost their hearing capacity as otherwise they would have to find other
-	methods to communicate effectively (learn sign language, have an interpreter, use some other device, etc.), all of which could take a lot of time to learn in
-	which the individual wouldn't be able to operate normally as they had previously. While hearing aids may be able to solve some cases, it doesn't solve all of
-	them.
+	Our finished product will immediately be an invaluable asset to those who have recently lost their hearing
+	capacity as otherwise they would have to find other methods to communicate effectively (learn sign language,
+	have an interpreter, use some other device, etc.), all of which could take a lot of time to learn in which
+	the individual wouldn't be able to operate normally as they had previously. While hearing aids may be able
+	to solve some cases, it doesn't solve all of them.
 
 What engages our passions?
 
@@ -35,10 +36,11 @@ What engages our passions?
 
 External opportunities that exist:
 
-	Marketing with Apple, the device can connect to your phone like an Apple Watch or AirPods and have a very simple user interface. Funding from personal
-	owners, investors, and partners like Apple. We can have branded frames and have actual prescription lenses (i.e. Gucci, Armani, or any designer brands) This
-	will sell very well in any deaf community or any place that has a language barrier. We can promote other Apple products. Buy a new iPhone and get the glasses
-	off for 15%. We can also have famous people wear these glasses.
+	Marketing with Apple, the device can connect to your phone like an Apple Watch or AirPods and have a very
+	simple user interface. Funding from personal owners, investors, and partners like Apple. We can have branded
+	frames and have actual prescription lenses (i.e. Gucci, Armani, or any designer brands) This will sell very
+	well in any deaf community or any place that has a language barrier. We can promote other Apple products.
+	Buy a new iPhone and get the glasses off for 15%. We can also have famous people wear these glasses.
 	
 Teams:
 
@@ -46,11 +48,13 @@ Teams:
 		Junior at CSU East Bay studying Computer Science.
 		
 	George Ermakov
-		Senior at CSU East Bay studying computer science engineering. Currently work at Lucid Motors as Advanced Manufacturing Engineer with four years
-		experience in the field. 
+		Senior at CSU East Bay studying computer science engineering.
+		Currently work at Lucid Motors as Advanced Manufacturing Engineer
+		with four years experience in the field. 
 		
 	John Parker Wilson
-		Senior at CSU East Bay majoring in Computer Science. Has experience programming video games and knows Photoshop.
+		Senior at CSU East Bay majoring in Computer Science.
+		Has experience programming video games and knows Photoshop.
 		
 	Ishwdeep Singh
 		Junior at CSU East Bay majoring in Computer Science. 
