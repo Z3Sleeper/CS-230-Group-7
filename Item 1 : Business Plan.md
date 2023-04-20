@@ -17,7 +17,10 @@ What is the purpose, values and mission?
 	other's languages to communicate more easily.
 
 How can our startup have an impact?
-	Our finished product will immediately be an invaluable asset to those who have recently lost their hearing capacity as otherwise they would have to find other methods to communicate effectively (learn sign language, have an interpreter, use some other device, etc.), all of which could take a lot of time to learn in which the individual wouldn't be able to operate normally as they had previously. While hearing aids may be able to solve some cases, it doesn't solve all of them.
+	Our finished product will immediately be an invaluable asset to those who have recently lost their hearing capacity as otherwise they would have to find other
+	methods to communicate effectively (learn sign language, have an interpreter, use some other device, etc.), all of which could take a lot of time to learn in
+	which the individual wouldn't be able to operate normally as they had previously. While hearing aids may be able to solve some cases, it doesn't solve all of
+	them.
 
 What engages our passions?
 	Those of us at JIGS have a strong desire to do our part in helping those in need. Our goal to implement a translation feature is secondary to our primary objective: which is aiding those with hearing disabilities.
@@ -32,11 +35,14 @@ External opportunities that exist
 Teams:
 	Stuart Granville
 		Junior at CSU East Bay studying Computer Science.
+		
 	George Ermakov
 		Senior at CSU East Bay studying computer science engineering. Currently work at Lucid Motors as Advanced Manufacturing Engineer with four years
 		experience in the field. 
+		
 	John Parker Wilson
 		Senior at CSU East Bay majoring in Computer Science. Has experience programming video games and knows Photoshop.
+		
 	Ishwdeep Singh
 		Junior at CSU East Bay majoring in Computer Science. 
 
