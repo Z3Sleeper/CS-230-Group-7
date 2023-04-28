@@ -1,4 +1,4 @@
-Company Video: Test
+Company Video: 
 
 Company Wiki: https://github.com/Z3Sleeper/CS-230-Group-7/wiki/JIGS-Wiki
 
