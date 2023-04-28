@@ -1,4 +1,4 @@
-Company Video: 
+Company Video: https://www.youtube.com/watch?v=2GyBWl2_nYw&ab_channel=Z3Sleeper
 
 Company Wiki: https://github.com/Z3Sleeper/CS-230-Group-7/wiki/JIGS-Wiki
 
